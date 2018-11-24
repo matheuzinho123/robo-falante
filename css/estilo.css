@@ -1,0 +1,18 @@
+.palco {
+    width: 80%;
+    height: 80vh;
+    border: 5px solid black;
+    margin: 0 auto;
+    background-image: url(img/espaco.png);
+    background-size: cover;
+    position: relative;
+}
+
+.robo{
+    width: 20%;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+}
+
+
